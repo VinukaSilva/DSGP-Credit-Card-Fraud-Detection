@@ -1,2 +1,3 @@
 # DSGP-Credit-Card-Fraud-Detection
-![CCFD](https://github.com/VinukaSilva/DSGP-Credit-Card-Fraud-Detection/assets/137886592/aa123c6a-a1f2-4124-90e4-5eb3a94f4187)
+
+![ccfd](https://github.com/VinukaSilva/DSGP-Credit-Card-Fraud-Detection/assets/137886592/9c5b3020-d620-4652-94f9-7074267d806a)
